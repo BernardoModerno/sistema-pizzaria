@@ -7,3 +7,6 @@ yarn add ts-node-dev -D
 yarn add express-async-errors
 yarn add cors
 yarn add @types/cors -D
+yarn add prisma
+yarn add @prisma/client
+npx prisma init
