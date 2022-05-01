@@ -10,3 +10,4 @@ yarn add @types/cors -D
 yarn add prisma
 yarn add @prisma/client
 npx prisma init
+yarn prisma migrate dev
