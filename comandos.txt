@@ -13,3 +13,6 @@ npx prisma init
 yarn prisma migrate dev
 yarn add bcryptjs
 yarn add @types/bcryptjs -D
+yarn add jsonwebtoken
+yarn add @types/jsonwebtoken -D
+yarn add dotenv
