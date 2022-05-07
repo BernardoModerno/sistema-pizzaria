@@ -11,3 +11,5 @@ yarn add prisma
 yarn add @prisma/client
 npx prisma init
 yarn prisma migrate dev
+yarn add bcryptjs
+yarn add @types/bcryptjs -D
