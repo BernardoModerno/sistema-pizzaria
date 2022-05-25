@@ -18,3 +18,5 @@ yarn add @types/jsonwebtoken -D
 yarn add dotenv
 yarn add multer
 yarn add @types/multer -D
+npx create-next-app frontend
+yarn dev
