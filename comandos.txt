@@ -24,3 +24,5 @@ yarn add typescript @types/react @types/node -D
 yarn add sass
 yarn add react-icons
 yarn add axios nookies jwt-decode
+yarn add @types/react-toastify -D
+yarn add react-toastify
