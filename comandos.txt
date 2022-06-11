@@ -26,3 +26,5 @@ yarn add react-icons
 yarn add axios nookies jwt-decode
 yarn add @types/react-toastify -D
 yarn add react-toastify
+yarn add react-modal
+yarn add @types/react-modal -D
