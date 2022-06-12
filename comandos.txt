@@ -29,3 +29,4 @@ yarn add react-toastify
 yarn add react-modal
 yarn add @types/react-modal -D
 expo init mobile
+expo start
