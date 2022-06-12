@@ -30,3 +30,6 @@ yarn add react-modal
 yarn add @types/react-modal -D
 expo init mobile
 expo start
+expo install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+expo install @react-navigation/native-stack
